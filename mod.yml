@@ -36610,1422 +36610,54 @@ assets:
   package: kh2_sixth
   source:
   - name: voice\bg\event\wi12613pe.win32.scd
-- name: voice\bg\event\eh13650sr.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh13650sr.win32.scd
-- name: voice\bg\event\eh13651rk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh13651rk.win32.scd
-- name: voice\bg\event\eh13652sr_1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh13652sr_1.win32.scd
-- name: voice\bg\event\eh13652sr_2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh13652sr_2.win32.scd
-- name: voice\bg\event\eh13653rk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh13653rk.win32.scd
-- name: voice\bg\event\eh13654sr.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh13654sr.win32.scd
-- name: voice\bg\event\eh50101x8_1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50101x8_1.win32.scd
-- name: voice\bg\event\eh50101x8_2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50101x8_2.win32.scd
-- name: voice\bg\event\eh50102x3.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50102x3.win32.scd
-- name: voice\bg\event\eh50103x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50103x8.win32.scd
-- name: voice\bg\event\eh50104x3.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50104x3.win32.scd
-- name: voice\bg\event\eh50105x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50105x8.win32.scd
-- name: voice\bg\event\eh50106x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50106x8.win32.scd
-- name: voice\bg\event\eh50201x3.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50201x3.win32.scd
-- name: voice\bg\event\eh50202x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50202x2.win32.scd
-- name: voice\bg\event\eh50203x7.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50203x7.win32.scd
-- name: voice\bg\event\eh50204x0.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50204x0.win32.scd
-- name: voice\bg\event\eh50205x9.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50205x9.win32.scd
-- name: voice\bg\event\eh50206x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50206x2.win32.scd
-- name: voice\bg\event\eh50207x9.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50207x9.win32.scd
-- name: voice\bg\event\eh50208x3.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50208x3.win32.scd
-- name: voice\bg\event\eh50209x0.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50209x0.win32.scd
-- name: voice\bg\event\eh50210x7.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50210x7.win32.scd
-- name: voice\bg\event\eh50211x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50211x1.win32.scd
-- name: voice\bg\event\eh50212x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50212x1.win32.scd
-- name: voice\bg\event\eh50301x7.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50301x7.win32.scd
-- name: voice\bg\event\eh50302x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50302x1.win32.scd
-- name: voice\bg\event\eh50303x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50303x1.win32.scd
-- name: voice\bg\event\eh50304x7.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50304x7.win32.scd
-- name: voice\bg\event\eh50305x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50305x1.win32.scd
-- name: voice\bg\event\eh50306x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50306x1.win32.scd
-- name: voice\bg\event\eh50307x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50307x1.win32.scd
-- name: voice\bg\event\eh50401x7_1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50401x7_1.win32.scd
-- name: voice\bg\event\eh50401x7_2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50401x7_2.win32.scd
-- name: voice\bg\event\eh50402x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50402x2.win32.scd
-- name: voice\bg\event\eh50403x0.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50403x0.win32.scd
-- name: voice\bg\event\eh50404x3.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50404x3.win32.scd
-- name: voice\bg\event\eh50405x0.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50405x0.win32.scd
-- name: voice\bg\event\eh50406x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50406x2.win32.scd
-- name: voice\bg\event\eh50407x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50407x1.win32.scd
-- name: voice\bg\event\eh50408x3.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50408x3.win32.scd
-- name: voice\bg\event\eh50501x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50501x2.win32.scd
-- name: voice\bg\event\eh50502x0.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50502x0.win32.scd
-- name: voice\bg\event\eh50503x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50503x2.win32.scd
-- name: voice\bg\event\eh50504x0_1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50504x0_1.win32.scd
-- name: voice\bg\event\eh50504x0_2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50504x0_2.win32.scd
-- name: voice\bg\event\eh50505x7.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50505x7.win32.scd
-- name: voice\bg\event\eh50506x7_1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50506x7_1.win32.scd
-- name: voice\bg\event\eh50506x7_2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50506x7_2.win32.scd
-- name: voice\bg\event\eh50507x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50507x1.win32.scd
-- name: voice\bg\event\eh50508x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50508x1.win32.scd
-- name: voice\bg\event\eh50601Ars.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50601Ars.win32.scd
-- name: voice\bg\event\eh50601Brs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50601Brs.win32.scd
-- name: voice\bg\event\eh50601Crs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50601Crs.win32.scd
-- name: voice\bg\event\eh50601Drs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50601Drs.win32.scd
-- name: voice\bg\event\eh50601Ers.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50601Ers.win32.scd
-- name: voice\bg\event\eh50601Frk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50601Frk.win32.scd
-- name: voice\bg\event\eh50601Grk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50601Grk.win32.scd
-- name: voice\bg\event\eh50601Hrk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50601Hrk.win32.scd
-- name: voice\bg\event\eh50601Irk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50601Irk.win32.scd
-- name: voice\bg\event\eh50601Jrk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50601Jrk.win32.scd
-- name: voice\bg\event\eh50601rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50601rs.win32.scd
-- name: voice\bg\event\eh50602rk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50602rk.win32.scd
-- name: voice\bg\event\eh50603Ars.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50603Ars.win32.scd
-- name: voice\bg\event\eh50603rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50603rs.win32.scd
-- name: voice\bg\event\eh50604Ars.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50604Ars.win32.scd
-- name: voice\bg\event\eh50604rk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50604rk.win32.scd
-- name: voice\bg\event\eh50605rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50605rs.win32.scd
-- name: voice\bg\event\eh50606rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50606rs.win32.scd
-- name: voice\bg\event\eh50607Ars.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50607Ars.win32.scd
-- name: voice\bg\event\eh50607Brs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50607Brs.win32.scd
-- name: voice\bg\event\eh50607Crs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50607Crs.win32.scd
-- name: voice\bg\event\eh50607Frk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50607Frk.win32.scd
-- name: voice\bg\event\eh50607Grk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50607Grk.win32.scd
-- name: voice\bg\event\eh50607rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50607rs.win32.scd
-- name: voice\bg\event\eh50608rk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50608rk.win32.scd
-- name: voice\bg\event\eh50609rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50609rs.win32.scd
-- name: voice\bg\event\eh50610rk_1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50610rk_1.win32.scd
-- name: voice\bg\event\eh50610rk_2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50610rk_2.win32.scd
-- name: voice\bg\event\eh50611rk.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50611rk.win32.scd
-- name: voice\bg\event\eh50612Brs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50612Brs.win32.scd
-- name: voice\bg\event\eh50612rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50612rs.win32.scd
-- name: voice\bg\event\eh50613an.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50613an.win32.scd
-- name: voice\bg\event\eh50614an.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50614an.win32.scd
-- name: voice\bg\event\eh50615dz_1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50615dz_1.win32.scd
-- name: voice\bg\event\eh50615dz_2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50615dz_2.win32.scd
-- name: voice\bg\event\eh50616an.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50616an.win32.scd
-- name: voice\bg\event\eh50701x4.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50701x4.win32.scd
-- name: voice\bg\event\eh50702x6.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50702x6.win32.scd
-- name: voice\bg\event\eh50703x4.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50703x4.win32.scd
-- name: voice\bg\event\eh50704x6.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50704x6.win32.scd
-- name: voice\bg\event\eh50705x4.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50705x4.win32.scd
-- name: voice\bg\event\eh50706x6.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50706x6.win32.scd
-- name: voice\bg\event\eh50707x4.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50707x4.win32.scd
-- name: voice\bg\event\eh50708x4.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50708x4.win32.scd
-- name: voice\bg\event\eh50709Ax4.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50709Ax4.win32.scd
-- name: voice\bg\event\eh50709x2_1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50709x2_1.win32.scd
-- name: voice\bg\event\eh50709x2_2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50709x2_2.win32.scd
-- name: voice\bg\event\eh50710x6_1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50710x6_1.win32.scd
-- name: voice\bg\event\eh50710x6_2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50710x6_2.win32.scd
-- name: voice\bg\event\eh50711x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50711x2.win32.scd
-- name: voice\bg\event\eh50712x6.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50712x6.win32.scd
-- name: voice\bg\event\eh50713x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50713x2.win32.scd
-- name: voice\bg\event\eh50714x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50714x2.win32.scd
-- name: voice\bg\event\eh50715x2_1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50715x2_1.win32.scd
-- name: voice\bg\event\eh50715x2_2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50715x2_2.win32.scd
-- name: voice\bg\event\eh50716x6.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50716x6.win32.scd
-- name: voice\bg\event\eh50717x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50717x2.win32.scd
-- name: voice\bg\event\eh50718x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50718x2.win32.scd
-- name: voice\bg\event\eh50719x6.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50719x6.win32.scd
-- name: voice\bg\event\eh50720x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50720x2.win32.scd
-- name: voice\bg\event\eh50721x6.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50721x6.win32.scd
-- name: voice\bg\event\eh50722x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50722x2.win32.scd
-- name: voice\bg\event\eh50723x6.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50723x6.win32.scd
-- name: voice\bg\event\eh50724x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50724x2.win32.scd
-- name: voice\bg\event\eh50725x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50725x2.win32.scd
-- name: voice\bg\event\eh50726x2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\eh50726x2.win32.scd
-- name: voice\bg\event\hb70101x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\hb70101x1.win32.scd
-- name: voice\bg\event\tt05101x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05101x1.win32.scd
-- name: voice\bg\event\tt05102x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05102x1.win32.scd
-- name: voice\bg\event\tt05103x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05103x1.win32.scd
-- name: voice\bg\event\tt05104rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05104rs.win32.scd
-- name: voice\bg\event\tt05105x1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05105x1.win32.scd
-- name: voice\bg\event\tt05201x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05201x8.win32.scd
-- name: voice\bg\event\tt05202an.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05202an.win32.scd
-- name: voice\bg\event\tt05203x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05203x8.win32.scd
-- name: voice\bg\event\tt05204x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05204x8.win32.scd
-- name: voice\bg\event\tt05205na.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05205na.win32.scd
-- name: voice\bg\event\tt05206na.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05206na.win32.scd
-- name: voice\bg\event\tt05207x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05207x8.win32.scd
-- name: voice\bg\event\tt05208x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05208x8.win32.scd
-- name: voice\bg\event\tt05209na.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05209na.win32.scd
-- name: voice\bg\event\tt05210an.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05210an.win32.scd
-- name: voice\bg\event\tt05211x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05211x8.win32.scd
-- name: voice\bg\event\tt05212an.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05212an.win32.scd
-- name: voice\bg\event\tt05213na.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05213na.win32.scd
-- name: voice\bg\event\tt05214an.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05214an.win32.scd
-- name: voice\bg\event\tt05215x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05215x8.win32.scd
-- name: voice\bg\event\tt05216na.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05216na.win32.scd
-- name: voice\bg\event\tt05301x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05301x8.win32.scd
-- name: voice\bg\event\tt05302rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05302rs.win32.scd
-- name: voice\bg\event\tt05303rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05303rs.win32.scd
-- name: voice\bg\event\tt05304x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05304x8.win32.scd
-- name: voice\bg\event\tt05305rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05305rs.win32.scd
-- name: voice\bg\event\tt05306x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05306x8.win32.scd
-- name: voice\bg\event\tt05307rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05307rs.win32.scd
-- name: voice\bg\event\tt05308x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05308x8.win32.scd
-- name: voice\bg\event\tt05309rs_1.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05309rs_1.win32.scd
-- name: voice\bg\event\tt05309rs_2.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05309rs_2.win32.scd
-- name: voice\bg\event\tt05310x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05310x8.win32.scd
-- name: voice\bg\event\tt05311rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05311rs.win32.scd
-- name: voice\bg\event\tt05312x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05312x8.win32.scd
-- name: voice\bg\event\tt05313Ars.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05313Ars.win32.scd
-- name: voice\bg\event\tt05313Brs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05313Brs.win32.scd
-- name: voice\bg\event\tt05313x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05313x8.win32.scd
-- name: voice\bg\event\tt05314rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05314rs.win32.scd
-- name: voice\bg\event\tt05315x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05315x8.win32.scd
-- name: voice\bg\event\tt05316rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05316rs.win32.scd
-- name: voice\bg\event\tt05317x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05317x8.win32.scd
-- name: voice\bg\event\tt05318rs.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05318rs.win32.scd
-- name: voice\bg\event\tt05319x8.win32.scd
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: voice\bg\event\tt05319x8.win32.scd
 - name: voice\bg\gumibattle\gumi.win32.scd
   method: copy
   platform: pc
   package: kh2_sixth
   source:
   - name: voice\bg\gumibattle\gumi.win32.scd
-- name: remastered\obj\P_EX100.a.us\-0.dds
+- name: raw\obj\P_MU000.a.bg
   method: copy
   platform: pc
   package: kh2_sixth
   source:
-  - name: remastered\obj\P_EX100.a.us\-0.dds
-- name: remastered\obj\P_EX100.a.us\-1.dds
+  - name: raw\obj\P_MU000.a.bg
+- name: raw\obj\P_MU010.a.bg
   method: copy
   platform: pc
   package: kh2_sixth
   source:
-  - name: remastered\obj\P_EX100.a.us\-1.dds
-- name: remastered\obj\P_EX100.a.us\-2.dds
+  - name: raw\obj\P_MU010.a.bg
+- name: raw\obj\P_NM000.a.bg
   method: copy
   platform: pc
   package: kh2_sixth
   source:
-  - name: remastered\obj\P_EX100.a.us\-2.dds
-- name: remastered\obj\P_EX100.a.us\-3.dds
+  - name: raw\obj\P_NM000.a.bg
+- name: raw\obj\P_NM000_SANTA.a.bg
   method: copy
   platform: pc
   package: kh2_sixth
   source:
-  - name: remastered\obj\P_EX100.a.us\-3.dds
-- name: remastered\obj\P_EX100.a.us\-4.dds
+  - name: raw\obj\P_NM000_SANTA.a.bg
+- name: raw\obj\P_TR000.a.bg
   method: copy
   platform: pc
   package: kh2_sixth
   source:
-  - name: remastered\obj\P_EX100.a.us\-4.dds
-- name: remastered\obj\P_EX100.a.us\-5.dds
+  - name: raw\obj\P_TR000.a.bg
+- name: raw\obj\P_WI020.a.bg
   method: copy
   platform: pc
   package: kh2_sixth
   source:
-  - name: remastered\obj\P_EX100.a.us\-5.dds
-- name: remastered\obj\P_EX100.a.us\-6.dds
+  - name: raw\obj\P_WI020.a.bg
+- name: raw\obj\P_WI030.a.bg
   method: copy
   platform: pc
   package: kh2_sixth
   source:
-  - name: remastered\obj\P_EX100.a.us\-6.dds
-- name: remastered\obj\P_EX100.a.us\-7.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100.a.us\-7.dds
-- name: remastered\obj\P_EX100.a.us\-8.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100.a.us\-8.dds
-- name: remastered\obj\P_EX100_BTLF.a.us\-0.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_BTLF.a.us\-0.dds
-- name: remastered\obj\P_EX100_BTLF.a.us\-1.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_BTLF.a.us\-1.dds
-- name: remastered\obj\P_EX100_BTLF.a.us\-2.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_BTLF.a.us\-2.dds
-- name: remastered\obj\P_EX100_BTLF.a.us\-3.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_BTLF.a.us\-3.dds
-- name: remastered\obj\P_EX100_BTLF.a.us\-4.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_BTLF.a.us\-4.dds
-- name: remastered\obj\P_EX100_HTLF.a.us\-0.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_HTLF.a.us\-0.dds
-- name: remastered\obj\P_EX100_HTLF.a.us\-1.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_HTLF.a.us\-1.dds
-- name: remastered\obj\P_EX100_HTLF.a.us\-2.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_HTLF.a.us\-2.dds
-- name: remastered\obj\P_EX100_HTLF.a.us\-3.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_HTLF.a.us\-3.dds
-- name: remastered\obj\P_EX100_KH1F.a.us\-0.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.a.us\-0.dds
-- name: remastered\obj\P_EX100_KH1F.a.us\-1.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.a.us\-1.dds
-- name: remastered\obj\P_EX100_KH1F.a.us\-2.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.a.us\-2.dds
-- name: remastered\obj\P_EX100_KH1F.a.us\-3.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.a.us\-3.dds
-- name: remastered\obj\P_EX100_KH1F.a.us\-4.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.a.us\-4.dds
-- name: remastered\obj\P_EX100_KH1F.a.us\-5.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.a.us\-5.dds
-- name: remastered\obj\P_EX100_KH1F.a.us\-6.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.a.us\-6.dds
-- name: remastered\obj\P_EX100_KH1F.a.us\-7.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.a.us\-7.dds
-- name: remastered\obj\P_EX100_KH1F.a.us\-8.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.a.us\-8.dds
-- name: remastered\obj\P_EX100_KH1F.a.us\-9.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.a.us\-9.dds
-- name: remastered\obj\P_EX100_MAGF.a.us\-0.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_MAGF.a.us\-0.dds
-- name: remastered\obj\P_EX100_MAGF.a.us\-1.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_MAGF.a.us\-1.dds
-- name: remastered\obj\P_EX100_MAGF.a.us\-2.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_MAGF.a.us\-2.dds
-- name: remastered\obj\P_EX100_TRIF.a.us\-0.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_TRIF.a.us\-0.dds
-- name: remastered\obj\P_EX100_TRIF.a.us\-1.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_TRIF.a.us\-1.dds
-- name: remastered\obj\P_EX100_TRIF.a.us\-2.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_TRIF.a.us\-2.dds
-- name: remastered\obj\P_EX100_TRIF.a.us\-3.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_TRIF.a.us\-3.dds
-- name: remastered\obj\P_EX100_TRIF.a.us\-4.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_TRIF.a.us\-4.dds
-- name: remastered\obj\P_EX100_TRIF.a.us\-5.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_TRIF.a.us\-5.dds
-- name: remastered\obj\P_EX100_ULTF.a.us\-0.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_ULTF.a.us\-0.dds
-- name: remastered\obj\P_EX100_ULTF.a.us\-1.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_ULTF.a.us\-1.dds
-- name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
-- name: remastered\obj\P_EX100_ULTF.a.us\-2.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_ULTF.a.us\-2.dds
-- name: remastered\obj\P_EX100_ULTF.a.us\-3.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_ULTF.a.us\-3.dds
-- name: remastered\obj\P_EX100_ULTF.a.us\-4.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_ULTF.a.us\-4.dds
-- name: remastered\obj\P_EX100_ULTF.a.us\-5.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_ULTF.a.us\-5.dds
-- name: remastered\obj\P_EX100_ULTF.a.us\-6.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_ULTF.a.us\-6.dds
-- name: remastered\obj\P_EX100_ULTF.a.us\-7.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_ULTF.a.us\-7.dds
-- name: remastered\obj\P_EX100_ULTF.a.us\-8.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_ULTF.a.us\-8.dds
-- name: remastered\obj\P_EX100_ULTF.a.us\-9.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_ULTF.a.us\-9.dds
-- name: raw\obj\N_HB630.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_HB630.a.bg
-- name: raw\obj\N_HE010_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_HE010_BTL.a.bg
-- name: raw\obj\N_HE010_BTL_CLSM.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_HE010_BTL_CLSM.a.bg
-- name: raw\obj\N_HE020_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_HE020_BTL.a.bg
-- name: raw\obj\N_HE030_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_HE030_BTL.a.bg
-- name: raw\obj\N_HE030_BTL_DEF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_HE030_BTL_DEF.a.bg
-- name: raw\obj\N_LK010_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_LK010_BTL.a.bg
-- name: raw\obj\N_LK020_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_LK020_BTL.a.bg
-- name: raw\obj\N_NM050_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_NM050_BTL.a.bg
-- name: raw\obj\N_NM050_BTL_2.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_NM050_BTL_2.a.bg
-- name: raw\obj\N_NM050_BTL_TOY.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_NM050_BTL_TOY.a.bg
-- name: raw\obj\N_NM060_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_NM060_BTL.a.bg
-- name: raw\obj\N_NM060_BTL_2.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_NM060_BTL_2.a.bg
-- name: raw\obj\N_NM060_BTL_TOY.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_NM060_BTL_TOY.a.bg
-- name: raw\obj\N_NM070_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_NM070_BTL.a.bg
-- name: raw\obj\N_NM070_BTL_2.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_NM070_BTL_2.a.bg
-- name: raw\obj\N_NM070_BTL_TOY.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_NM070_BTL_TOY.a.bg
-- name: raw\obj\N_PO010_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_PO010_BTL.a.bg
-- name: raw\obj\N_PO020_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_PO020_BTL.a.bg
-- name: raw\obj\N_PO030_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_PO030_BTL.a.bg
-- name: raw\obj\N_PO040_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_PO040_BTL.a.bg
-- name: raw\obj\N_PO070_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_PO070_BTL.a.bg
-- name: raw\obj\N_TR010_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_TR010_BTL.a.bg
-- name: raw\obj\N_TR010_BTL_L.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_TR010_BTL_L.a.bg
-- name: raw\obj\N_WI010_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_WI010_BTL.a.bg
-- name: raw\obj\N_WI010_BTL_VS.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\N_WI010_BTL_VS.a.bg
+  - name: raw\obj\P_WI030.a.bg
 - name: raw\obj\PO06_F_PO010.a.bg
   method: copy
   platform: pc
@@ -38170,498 +36802,6 @@ assets:
   package: kh2_sixth
   source:
   - name: raw\obj\PO08_PLAYER.a.bg
-- name: raw\obj\P_AL000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_AL000.a.bg
-- name: raw\obj\P_AL010.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_AL010.a.bg
-- name: raw\obj\P_BB000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_BB000.a.bg
-- name: raw\obj\P_BB000_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_BB000_BTL.a.bg
-- name: raw\obj\P_CA000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_CA000.a.bg
-- name: raw\obj\P_CA000_HUMAN.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_CA000_HUMAN.a.bg
-- name: raw\obj\P_CA000_HUMAN_LOW.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_CA000_HUMAN_LOW.a.bg
-- name: raw\obj\P_CA000_LOW.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_CA000_LOW.a.bg
-- name: raw\obj\P_EH000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EH000.a.bg
-- name: raw\obj\P_EH000_LAST.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EH000_LAST.a.bg
-- name: raw\obj\P_EH000_SIDECAR.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EH000_SIDECAR.a.bg
-- name: raw\obj\P_EH010.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EH010.a.bg
-- name: raw\obj\P_EX020.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX020.a.bg
-- name: raw\obj\P_EX020_NM.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX020_NM.a.bg
-- name: raw\obj\P_EX020_TR.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX020_TR.a.bg
-- name: raw\obj\P_EX020_XM.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX020_XM.a.bg
-- name: raw\obj\P_EX030.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX030.a.bg
-- name: raw\obj\P_EX030_NM.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX030_NM.a.bg
-- name: raw\obj\P_EX030_TR.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX030_TR.a.bg
-- name: raw\obj\P_EX030_XM.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX030_XM.a.bg
-- name: raw\obj\P_EX100.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100.a.bg
-- name: raw\obj\P_EX100_AL_CARPET.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_AL_CARPET.a.bg
-- name: raw\obj\P_EX100_BTLF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_BTLF.a.bg
-- name: raw\obj\P_EX100_HTLF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_HTLF.a.bg
-- name: raw\obj\P_EX100_HTLF_BTL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_HTLF_BTL.a.bg
-- name: raw\obj\P_EX100_KH1F.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_KH1F.a.bg
-- name: raw\obj\P_EX100_MAGF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_MAGF.a.bg
-- name: raw\obj\P_EX100_NM.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_NM.a.bg
-- name: raw\obj\P_EX100_NM_BTLF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_NM_BTLF.a.bg
-- name: raw\obj\P_EX100_NM_HTLF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_NM_HTLF.a.bg
-- name: raw\obj\P_EX100_NM_KH1F.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_NM_KH1F.a.bg
-- name: raw\obj\P_EX100_NM_MAGF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_NM_MAGF.a.bg
-- name: raw\obj\P_EX100_NM_TRIF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_NM_TRIF.a.bg
-- name: raw\obj\P_EX100_NM_ULTF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_NM_ULTF.a.bg
-- name: raw\obj\P_EX100_SIDECAR.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_SIDECAR.a.bg
-- name: raw\obj\P_EX100_TR.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_TR.a.bg
-- name: raw\obj\P_EX100_TRIF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_TRIF.a.bg
-- name: raw\obj\P_EX100_TR_BTLF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_TR_BTLF.a.bg
-- name: raw\obj\P_EX100_TR_HTLF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_TR_HTLF.a.bg
-- name: raw\obj\P_EX100_TR_KH1F.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_TR_KH1F.a.bg
-- name: raw\obj\P_EX100_TR_LIGHTCYCLE.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_TR_LIGHTCYCLE.a.bg
-- name: raw\obj\P_EX100_TR_MAGF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_TR_MAGF.a.bg
-- name: raw\obj\P_EX100_TR_TRIF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_TR_TRIF.a.bg
-- name: raw\obj\P_EX100_TR_ULTF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_TR_ULTF.a.bg
-- name: raw\obj\P_EX100_ULTF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_ULTF.a.bg
-- name: raw\obj\P_EX100_WI.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_WI.a.bg
-- name: raw\obj\P_EX100_WI_BTLF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_WI_BTLF.a.bg
-- name: raw\obj\P_EX100_WI_HTLF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_WI_HTLF.a.bg
-- name: raw\obj\P_EX100_WI_KH1F.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_WI_KH1F.a.bg
-- name: raw\obj\P_EX100_WI_MAGF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_WI_MAGF.a.bg
-- name: raw\obj\P_EX100_WI_TRIF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_WI_TRIF.a.bg
-- name: raw\obj\P_EX100_WI_ULTF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_WI_ULTF.a.bg
-- name: raw\obj\P_EX100_XM.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_XM.a.bg
-- name: raw\obj\P_EX100_XM_BTLF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_XM_BTLF.a.bg
-- name: raw\obj\P_EX100_XM_HTLF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_XM_HTLF.a.bg
-- name: raw\obj\P_EX100_XM_KH1F.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_XM_KH1F.a.bg
-- name: raw\obj\P_EX100_XM_MAGF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_XM_MAGF.a.bg
-- name: raw\obj\P_EX100_XM_TRIF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_XM_TRIF.a.bg
-- name: raw\obj\P_EX100_XM_ULTF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX100_XM_ULTF.a.bg
-- name: raw\obj\P_EX110_BTLF.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX110_BTLF.a.bg
-- name: raw\obj\P_EX120.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX120.a.bg
-- name: raw\obj\P_EX130.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX130.a.bg
-- name: raw\obj\P_EX200.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX200.a.bg
-- name: raw\obj\P_EX220.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX220.a.bg
-- name: raw\obj\P_EX230.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX230.a.bg
-- name: raw\obj\P_EX330.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX330.a.bg
-- name: raw\obj\P_EX340.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX340.a.bg
-- name: raw\obj\P_EX350.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX350.a.bg
-- name: raw\obj\P_EX360.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_EX360.a.bg
-- name: raw\obj\P_HE000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_HE000.a.bg
-- name: raw\obj\P_LK000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_LK000.a.bg
-- name: raw\obj\P_LK020.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_LK020.a.bg
-- name: raw\obj\P_LK030.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_LK030.a.bg
-- name: raw\obj\P_LK100.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_LK100.a.bg
-- name: raw\obj\P_LM100.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_LM100.a.bg
-- name: raw\obj\P_MU000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_MU000.a.bg
-- name: raw\obj\P_MU010.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_MU010.a.bg
-- name: raw\obj\P_NM000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_NM000.a.bg
-- name: raw\obj\P_NM000_SANTA.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_NM000_SANTA.a.bg
-- name: raw\obj\P_TR000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_TR000.a.bg
-- name: raw\obj\P_WI020.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_WI020.a.bg
-- name: raw\obj\P_WI030.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\P_WI030.a.bg
 - name: raw\obj\SHOP_POINT.a.bg
   method: copy
   platform: pc
@@ -38674,102 +36814,6 @@ assets:
   package: kh2_sixth
   source:
   - name: raw\obj\SHOP_POINT_LOW.a.bg
-- name: raw\obj\WM_CHECKER.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_CHECKER.a.bg
-- name: raw\obj\WM_CURSOR.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_CURSOR.a.bg
-- name: raw\obj\WM_GUMI_01.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_GUMI_01.a.bg
-- name: raw\obj\WM_SYMBOL_AL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_SYMBOL_AL.a.bg
-- name: raw\obj\WM_SYMBOL_BB.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_SYMBOL_BB.a.bg
-- name: raw\obj\WM_SYMBOL_CA.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_SYMBOL_CA.a.bg
-- name: raw\obj\WM_SYMBOL_DC.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_SYMBOL_DC.a.bg
-- name: raw\obj\WM_SYMBOL_EH.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_SYMBOL_EH.a.bg
-- name: raw\obj\WM_SYMBOL_HB.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_SYMBOL_HB.a.bg
-- name: raw\obj\WM_SYMBOL_HE.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_SYMBOL_HE.a.bg
-- name: raw\obj\WM_SYMBOL_LK.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_SYMBOL_LK.a.bg
-- name: raw\obj\WM_SYMBOL_LM.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_SYMBOL_LM.a.bg
-- name: raw\obj\WM_SYMBOL_MU.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_SYMBOL_MU.a.bg
-- name: raw\obj\WM_SYMBOL_NM.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_SYMBOL_NM.a.bg
-- name: raw\obj\WM_SYMBOL_TT.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WM_SYMBOL_TT.a.bg
-- name: raw\obj\WORLD_POINT.a.bg
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: raw\obj\WORLD_POINT.a.bg
 - name: raw\obj\W_AL000.a.bg
   method: copy
   platform: pc
@@ -39406,6 +37450,612 @@ assets:
   package: kh2_sixth
   source:
   - name: raw\obj\W_EX020.a.bg
+- name: raw\obj\N_HB630.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_HB630.a.bg
+- name: raw\obj\N_HE010_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_HE010_BTL.a.bg
+- name: raw\obj\N_HE010_BTL_CLSM.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_HE010_BTL_CLSM.a.bg
+- name: raw\obj\N_HE020_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_HE020_BTL.a.bg
+- name: raw\obj\N_HE030_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_HE030_BTL.a.bg
+- name: raw\obj\N_HE030_BTL_DEF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_HE030_BTL_DEF.a.bg
+- name: raw\obj\N_LK010_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_LK010_BTL.a.bg
+- name: raw\obj\N_LK020_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_LK020_BTL.a.bg
+- name: raw\obj\N_NM050_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_NM050_BTL.a.bg
+- name: raw\obj\N_NM050_BTL_2.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_NM050_BTL_2.a.bg
+- name: raw\obj\N_NM050_BTL_TOY.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_NM050_BTL_TOY.a.bg
+- name: raw\obj\N_NM060_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_NM060_BTL.a.bg
+- name: raw\obj\N_NM060_BTL_2.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_NM060_BTL_2.a.bg
+- name: raw\obj\N_NM060_BTL_TOY.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_NM060_BTL_TOY.a.bg
+- name: raw\obj\N_NM070_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_NM070_BTL.a.bg
+- name: raw\obj\N_NM070_BTL_2.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_NM070_BTL_2.a.bg
+- name: raw\obj\N_NM070_BTL_TOY.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_NM070_BTL_TOY.a.bg
+- name: raw\obj\N_PO010_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_PO010_BTL.a.bg
+- name: raw\obj\N_PO020_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_PO020_BTL.a.bg
+- name: raw\obj\N_PO030_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_PO030_BTL.a.bg
+- name: raw\obj\N_PO040_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_PO040_BTL.a.bg
+- name: raw\obj\N_PO070_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_PO070_BTL.a.bg
+- name: raw\obj\N_TR010_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_TR010_BTL.a.bg
+- name: raw\obj\N_TR010_BTL_L.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_TR010_BTL_L.a.bg
+- name: raw\obj\N_WI010_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_WI010_BTL.a.bg
+- name: raw\obj\N_WI010_BTL_VS.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\N_WI010_BTL_VS.a.bg
+- name: raw\obj\P_AL000.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_AL000.a.bg
+- name: raw\obj\P_AL010.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_AL010.a.bg
+- name: raw\obj\P_BB000.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_BB000.a.bg
+- name: raw\obj\P_BB000_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_BB000_BTL.a.bg
+- name: raw\obj\P_CA000.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_CA000.a.bg
+- name: raw\obj\P_CA000_HUMAN.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_CA000_HUMAN.a.bg
+- name: raw\obj\P_CA000_HUMAN_LOW.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_CA000_HUMAN_LOW.a.bg
+- name: raw\obj\P_CA000_LOW.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_CA000_LOW.a.bg
+- name: raw\obj\P_EH000.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EH000.a.bg
+- name: raw\obj\P_EH000_LAST.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EH000_LAST.a.bg
+- name: raw\obj\P_EH000_SIDECAR.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EH000_SIDECAR.a.bg
+- name: raw\obj\P_EH010.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EH010.a.bg
+- name: raw\obj\P_EX020.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX020.a.bg
+- name: raw\obj\P_EX020_NM.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX020_NM.a.bg
+- name: raw\obj\P_EX020_TR.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX020_TR.a.bg
+- name: raw\obj\P_EX020_XM.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX020_XM.a.bg
+- name: raw\obj\P_EX030.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX030.a.bg
+- name: raw\obj\P_EX030_NM.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX030_NM.a.bg
+- name: raw\obj\P_EX030_TR.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX030_TR.a.bg
+- name: raw\obj\P_EX030_XM.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX030_XM.a.bg
+- name: raw\obj\P_EX100.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100.a.bg
+- name: raw\obj\P_EX100_AL_CARPET.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_AL_CARPET.a.bg
+- name: raw\obj\P_EX100_BTLF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_BTLF.a.bg
+- name: raw\obj\P_EX100_HTLF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_HTLF.a.bg
+- name: raw\obj\P_EX100_HTLF_BTL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_HTLF_BTL.a.bg
+- name: raw\obj\P_EX100_KH1F.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_KH1F.a.bg
+- name: raw\obj\P_EX100_MAGF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_MAGF.a.bg
+- name: raw\obj\P_EX100_NM.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_NM.a.bg
+- name: raw\obj\P_EX100_NM_BTLF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_NM_BTLF.a.bg
+- name: raw\obj\P_EX100_NM_HTLF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_NM_HTLF.a.bg
+- name: raw\obj\P_EX100_NM_KH1F.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_NM_KH1F.a.bg
+- name: raw\obj\P_EX100_NM_MAGF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_NM_MAGF.a.bg
+- name: raw\obj\P_EX100_NM_TRIF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_NM_TRIF.a.bg
+- name: raw\obj\P_EX100_NM_ULTF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_NM_ULTF.a.bg
+- name: raw\obj\P_EX100_SIDECAR.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_SIDECAR.a.bg
+- name: raw\obj\P_EX100_TR.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_TR.a.bg
+- name: raw\obj\P_EX100_TR_BTLF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_TR_BTLF.a.bg
+- name: raw\obj\P_EX100_TR_HTLF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_TR_HTLF.a.bg
+- name: raw\obj\P_EX100_TR_KH1F.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_TR_KH1F.a.bg
+- name: raw\obj\P_EX100_TR_LIGHTCYCLE.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_TR_LIGHTCYCLE.a.bg
+- name: raw\obj\P_EX100_TR_MAGF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_TR_MAGF.a.bg
+- name: raw\obj\P_EX100_TR_TRIF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_TR_TRIF.a.bg
+- name: raw\obj\P_EX100_TR_ULTF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_TR_ULTF.a.bg
+- name: raw\obj\P_EX100_TRIF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_TRIF.a.bg
+- name: raw\obj\P_EX100_ULTF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_ULTF.a.bg
+- name: raw\obj\P_EX100_WI.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_WI.a.bg
+- name: raw\obj\P_EX100_WI_BTLF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_WI_BTLF.a.bg
+- name: raw\obj\P_EX100_WI_HTLF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_WI_HTLF.a.bg
+- name: raw\obj\P_EX100_WI_KH1F.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_WI_KH1F.a.bg
+- name: raw\obj\P_EX100_WI_MAGF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_WI_MAGF.a.bg
+- name: raw\obj\P_EX100_WI_TRIF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_WI_TRIF.a.bg
+- name: raw\obj\P_EX100_WI_ULTF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_WI_ULTF.a.bg
+- name: raw\obj\P_EX100_XM.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_XM.a.bg
+- name: raw\obj\P_EX100_XM_BTLF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_XM_BTLF.a.bg
+- name: raw\obj\P_EX100_XM_HTLF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_XM_HTLF.a.bg
+- name: raw\obj\P_EX100_XM_KH1F.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_XM_KH1F.a.bg
+- name: raw\obj\P_EX100_XM_MAGF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_XM_MAGF.a.bg
+- name: raw\obj\P_EX100_XM_TRIF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_XM_TRIF.a.bg
+- name: raw\obj\P_EX100_XM_ULTF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX100_XM_ULTF.a.bg
+- name: raw\obj\P_EX110_BTLF.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX110_BTLF.a.bg
+- name: raw\obj\P_EX120.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX120.a.bg
+- name: raw\obj\P_EX130.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX130.a.bg
+- name: raw\obj\P_EX200.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX200.a.bg
+- name: raw\obj\P_EX220.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX220.a.bg
+- name: raw\obj\P_EX230.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX230.a.bg
+- name: raw\obj\P_EX330.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX330.a.bg
+- name: raw\obj\P_EX340.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX340.a.bg
+- name: raw\obj\P_EX350.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX350.a.bg
+- name: raw\obj\P_EX360.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_EX360.a.bg
+- name: raw\obj\P_HE000.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_HE000.a.bg
+- name: raw\obj\P_LK000.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_LK000.a.bg
+- name: raw\obj\P_LK020.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_LK020.a.bg
+- name: raw\obj\P_LK030.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_LK030.a.bg
+- name: raw\obj\P_LK100.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_LK100.a.bg
+- name: raw\obj\P_LM100.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\P_LM100.a.bg
 - name: raw\obj\W_EX020_10.a.bg
   method: copy
   platform: pc
@@ -40426,6 +39076,390 @@ assets:
   package: kh2_sixth
   source:
   - name: raw\obj\W_TR000.a.bg
+- name: raw\obj\WM_CHECKER.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_CHECKER.a.bg
+- name: raw\obj\WM_CURSOR.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_CURSOR.a.bg
+- name: raw\obj\WM_GUMI_01.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_GUMI_01.a.bg
+- name: raw\obj\WM_SYMBOL_AL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_SYMBOL_AL.a.bg
+- name: raw\obj\WM_SYMBOL_BB.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_SYMBOL_BB.a.bg
+- name: raw\obj\WM_SYMBOL_CA.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_SYMBOL_CA.a.bg
+- name: raw\obj\WM_SYMBOL_DC.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_SYMBOL_DC.a.bg
+- name: raw\obj\WM_SYMBOL_EH.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_SYMBOL_EH.a.bg
+- name: raw\obj\WM_SYMBOL_HB.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_SYMBOL_HB.a.bg
+- name: raw\obj\WM_SYMBOL_HE.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_SYMBOL_HE.a.bg
+- name: raw\obj\WM_SYMBOL_LK.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_SYMBOL_LK.a.bg
+- name: raw\obj\WM_SYMBOL_LM.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_SYMBOL_LM.a.bg
+- name: raw\obj\WM_SYMBOL_MU.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_SYMBOL_MU.a.bg
+- name: raw\obj\WM_SYMBOL_NM.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_SYMBOL_NM.a.bg
+- name: raw\obj\WM_SYMBOL_TT.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WM_SYMBOL_TT.a.bg
+- name: raw\obj\WORLD_POINT.a.bg
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: raw\obj\WORLD_POINT.a.bg
+- name: remastered\obj\P_EX100.a.us\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.a.us\-0.dds
+- name: remastered\obj\P_EX100.a.us\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.a.us\-1.dds
+- name: remastered\obj\P_EX100.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.a.us\-2.dds
+- name: remastered\obj\P_EX100.a.us\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.a.us\-3.dds
+- name: remastered\obj\P_EX100.a.us\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.a.us\-4.dds
+- name: remastered\obj\P_EX100.a.us\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.a.us\-5.dds
+- name: remastered\obj\P_EX100.a.us\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.a.us\-6.dds
+- name: remastered\obj\P_EX100.a.us\-7.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.a.us\-7.dds
+- name: remastered\obj\P_EX100.a.us\-8.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.a.us\-8.dds
+- name: remastered\obj\P_EX100_BTLF.a.us\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_BTLF.a.us\-0.dds
+- name: remastered\obj\P_EX100_BTLF.a.us\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_BTLF.a.us\-1.dds
+- name: remastered\obj\P_EX100_BTLF.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_BTLF.a.us\-2.dds
+- name: remastered\obj\P_EX100_BTLF.a.us\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_BTLF.a.us\-3.dds
+- name: remastered\obj\P_EX100_BTLF.a.us\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_BTLF.a.us\-4.dds
+- name: remastered\obj\P_EX100_HTLF.a.us\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_HTLF.a.us\-0.dds
+- name: remastered\obj\P_EX100_HTLF.a.us\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_HTLF.a.us\-1.dds
+- name: remastered\obj\P_EX100_HTLF.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_HTLF.a.us\-2.dds
+- name: remastered\obj\P_EX100_HTLF.a.us\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_HTLF.a.us\-3.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us\-0.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us\-1.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us\-2.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us\-3.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us\-4.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us\-5.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us\-6.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-7.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us\-7.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-8.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us\-8.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-9.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us\-9.dds
+- name: remastered\obj\P_EX100_MAGF.a.us\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_MAGF.a.us\-0.dds
+- name: remastered\obj\P_EX100_MAGF.a.us\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_MAGF.a.us\-1.dds
+- name: remastered\obj\P_EX100_MAGF.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_MAGF.a.us\-2.dds
+- name: remastered\obj\P_EX100_TRIF.a.us\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us\-0.dds
+- name: remastered\obj\P_EX100_TRIF.a.us\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us\-1.dds
+- name: remastered\obj\P_EX100_TRIF.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us\-2.dds
+- name: remastered\obj\P_EX100_TRIF.a.us\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us\-3.dds
+- name: remastered\obj\P_EX100_TRIF.a.us\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us\-4.dds
+- name: remastered\obj\P_EX100_TRIF.a.us\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us\-5.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-0.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-1.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-2.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-3.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-4.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-5.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-6.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-7.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-7.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-8.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-8.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-9.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-9.dds
 - name: msg\fr\al.bar
   method: copy
   platform: pc
@@ -40516,126 +39550,786 @@ assets:
   package: kh2_fifth
   source:
   - name: msg\fr\wi.bar
-- name: remastered\msg\fr\al.bar\FR_al_bar0.png
+- name: raw\libretto\bg\wm1660.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\al.bar\FR_al_bar0.png
-- name: remastered\msg\fr\bb.bar\FR_bb_bar0.png
+  - name: raw\libretto\bg\wm1660.bar
+- name: raw\libretto\bg\wm1661.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\bb.bar\FR_bb_bar0.png
-- name: remastered\msg\fr\ca.bar\FR_ca_bar0.png
+  - name: raw\libretto\bg\wm1661.bar
+- name: raw\libretto\bg\wm1662.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\ca.bar\FR_ca_bar0.png
-- name: remastered\msg\fr\dc.bar\FR_dc_bar0.png
+  - name: raw\libretto\bg\wm1662.bar
+- name: raw\libretto\bg\wm1823.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\dc.bar\FR_dc_bar0.png
-- name: remastered\msg\fr\di.bar\FR_di_bar0.png
+  - name: raw\libretto\bg\wm1823.bar
+- name: raw\libretto\bg\wm1824.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\di.bar\FR_di_bar0.png
-- name: remastered\msg\fr\eh.bar\FR_eh_bar0.png
+  - name: raw\libretto\bg\wm1824.bar
+- name: raw\libretto\bg\wm1836.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\eh.bar\FR_eh_bar0.png
-- name: remastered\msg\fr\hb.bar\FR_hb_bar0.png
+  - name: raw\libretto\bg\wm1836.bar
+- name: raw\libretto\bg\wm1837.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\hb.bar\FR_hb_bar0.png
-- name: remastered\msg\fr\he.bar\FR_he_bar0.png
+  - name: raw\libretto\bg\wm1837.bar
+- name: raw\libretto\bg\wm1838.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\he.bar\FR_he_bar0.png
-- name: remastered\msg\fr\lk.bar\FR_lk_bar0.png
+  - name: raw\libretto\bg\wm1838.bar
+- name: raw\libretto\bg\wm502.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\lk.bar\FR_lk_bar0.png
-- name: remastered\msg\fr\lm.bar\FR_lm_bar0.png
+  - name: raw\libretto\bg\wm502.bar
+- name: raw\libretto\bg\wm503.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\lm.bar\FR_lm_bar0.png
-- name: remastered\msg\fr\mu.bar\FR_mu_bar0.png
+  - name: raw\libretto\bg\wm503.bar
+- name: raw\libretto\bg\wm512.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\mu.bar\FR_mu_bar0.png
-- name: remastered\msg\fr\nm.bar\FR_nm_bar0.png
+  - name: raw\libretto\bg\wm512.bar
+- name: raw\libretto\bg\wm521.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\nm.bar\FR_nm_bar0.png
-- name: remastered\msg\fr\po.bar\FR_po_bar0.png
+  - name: raw\libretto\bg\wm521.bar
+- name: raw\libretto\bg\wm524.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\po.bar\FR_po_bar0.png
-- name: remastered\msg\fr\tr.bar\FR_tr_bar0.png
+  - name: raw\libretto\bg\wm524.bar
+- name: raw\limit\bg\aladdin.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\tr.bar\FR_tr_bar0.png
-- name: remastered\msg\fr\wi.bar\FR_wi_bar0.png
+  - name: raw\limit\bg\aladdin.bar
+- name: raw\limit\bg\auron.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\wi.bar\FR_wi_bar0.png
-- name: remastered\msg\fr\wm.bar\FR_wm_bar0.png
+  - name: raw\limit\bg\auron.bar
+- name: raw\limit\bg\beast.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\msg\fr\wm.bar\FR_wm_bar0.png
-- name: remastered\remastered\obj\B_EX140.a.jp\se\obj\se320
+  - name: raw\limit\bg\beast.bar
+- name: raw\limit\bg\chickenlittle.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\remastered\obj\B_EX140.a.jp\se\obj\se320
-- name: raw\obj\AL14_CARPET.a.bg
+  - name: raw\limit\bg\chickenlittle.bar
+- name: raw\limit\bg\donald.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\obj\AL14_CARPET.a.bg
-- name: raw\obj\AL14_PLAYER.a.bg
+  - name: raw\limit\bg\donald.bar
+- name: raw\limit\bg\donald2.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\obj\AL14_PLAYER.a.bg
-- name: raw\obj\B_AL020.a.bg
+  - name: raw\limit\bg\donald2.bar
+- name: raw\limit\bg\donald2_wi.bar
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\obj\B_AL020.a.bg
+  - name: raw\limit\bg\donald2_wi.bar
+- name: raw\limit\bg\donald_wi.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\donald_wi.bar
+- name: raw\limit\bg\genie_brave.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\genie_brave.bar
+- name: raw\limit\bg\genie_final.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\genie_final.bar
+- name: raw\limit\bg\genie_master.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\genie_master.bar
+- name: raw\limit\bg\genie_wisdom.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\genie_wisdom.bar
+- name: raw\limit\bg\goofy.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\goofy.bar
+- name: raw\limit\bg\goofy2.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\goofy2.bar
+- name: raw\limit\bg\goofy2_wi.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\goofy2_wi.bar
+- name: raw\limit\bg\goofy_wi.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\goofy_wi.bar
+- name: raw\limit\bg\jack.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\jack.bar
+- name: raw\limit\bg\last_alcanam.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\last_alcanam.bar
+- name: raw\limit\bg\mulan.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\mulan.bar
+- name: raw\limit\bg\peterpan.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\peterpan.bar
+- name: raw\limit\bg\ragnarok.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\ragnarok.bar
+- name: raw\limit\bg\riku.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\riku.bar
+- name: raw\limit\bg\simba.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\simba.bar
+- name: raw\limit\bg\sonic_rave.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\sonic_rave.bar
+- name: raw\limit\bg\sparrow.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\sparrow.bar
+- name: raw\limit\bg\stitch.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\stitch.bar
+- name: raw\limit\bg\strike_raid.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\strike_raid.bar
+- name: raw\limit\bg\trinity.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\trinity.bar
+- name: raw\limit\bg\trinity_wi.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\trinity_wi.bar
+- name: raw\limit\bg\trinity_zz.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\trinity_zz.bar
+- name: raw\limit\bg\tron.bar
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\limit\bg\tron.bar
+- name: raw\obj\F_HE000.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE000.a.bg
+- name: raw\obj\F_HE010.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE010.a.bg
+- name: raw\obj\F_HE020_A1.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE020_A1.a.bg
+- name: raw\obj\F_HE020_A2.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE020_A2.a.bg
+- name: raw\obj\F_HE020_B1.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE020_B1.a.bg
+- name: raw\obj\F_HE020_B2.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE020_B2.a.bg
+- name: raw\obj\F_HE020_C1.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE020_C1.a.bg
+- name: raw\obj\F_HE020_C2.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE020_C2.a.bg
+- name: raw\obj\F_HE020_PETE.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE020_PETE.a.bg
+- name: raw\obj\F_HE020_PO.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE020_PO.a.bg
+- name: raw\obj\F_HE030_L.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE030_L.a.bg
+- name: raw\obj\F_HE030_L_FREE.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE030_L_FREE.a.bg
+- name: raw\obj\F_HE030_S.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE030_S.a.bg
+- name: raw\obj\F_HE030_S_FREE.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE030_S_FREE.a.bg
+- name: raw\obj\F_HE090.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE090.a.bg
+- name: raw\obj\F_HE110.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_HE110.a.bg
+- name: raw\obj\F_MU000.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU000.a.bg
+- name: raw\obj\F_MU010.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU010.a.bg
+- name: raw\obj\F_MU020.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU020.a.bg
+- name: raw\obj\F_MU030.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU030.a.bg
+- name: raw\obj\F_MU040.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU040.a.bg
+- name: raw\obj\F_MU050.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU050.a.bg
+- name: raw\obj\F_MU060.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU060.a.bg
+- name: raw\obj\F_MU070.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU070.a.bg
+- name: raw\obj\F_MU070_BOSS.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU070_BOSS.a.bg
+- name: raw\obj\F_MU080.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU080.a.bg
+- name: raw\obj\F_MU090.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU090.a.bg
+- name: raw\obj\F_MU100.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU100.a.bg
+- name: raw\obj\F_MU100_SHANG.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU100_SHANG.a.bg
+- name: raw\obj\F_MU100_TOWER.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_MU100_TOWER.a.bg
+- name: raw\obj\F_NM000.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM000.a.bg
+- name: raw\obj\F_NM010.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM010.a.bg
+- name: raw\obj\F_NM020.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM020.a.bg
+- name: raw\obj\F_NM030.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM030.a.bg
+- name: raw\obj\F_NM040_00.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM040_00.a.bg
+- name: raw\obj\F_NM040_10.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM040_10.a.bg
+- name: raw\obj\F_NM050.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM050.a.bg
+- name: raw\obj\F_NM070.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM070.a.bg
+- name: raw\obj\F_NM080.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM080.a.bg
+- name: raw\obj\F_NM090.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM090.a.bg
+- name: raw\obj\F_NM100.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM100.a.bg
+- name: raw\obj\F_NM110.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM110.a.bg
+- name: raw\obj\F_NM120.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM120.a.bg
+- name: raw\obj\F_NM130.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM130.a.bg
+- name: raw\obj\F_NM170_CATCH.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM170_CATCH.a.bg
+- name: raw\obj\F_NM170_L.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM170_L.a.bg
+- name: raw\obj\F_NM170_M.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM170_M.a.bg
+- name: raw\obj\F_NM170_S.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM170_S.a.bg
+- name: raw\obj\F_NM170_XL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM170_XL.a.bg
+- name: raw\obj\F_NM180.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_NM180.a.bg
+- name: raw\obj\F_PO030.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_PO030.a.bg
+- name: raw\obj\F_PO080.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_PO080.a.bg
+- name: raw\obj\F_PO090.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_PO090.a.bg
+- name: raw\obj\F_TR010.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR010.a.bg
+- name: raw\obj\F_TR020.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR020.a.bg
+- name: raw\obj\F_TR030.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR030.a.bg
+- name: raw\obj\F_TR050.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR050.a.bg
+- name: raw\obj\F_TR060.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR060.a.bg
+- name: raw\obj\F_TR080.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR080.a.bg
+- name: raw\obj\F_TR090.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR090.a.bg
+- name: raw\obj\F_TR100.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR100.a.bg
+- name: raw\obj\F_TR110.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR110.a.bg
+- name: raw\obj\F_TR120.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR120.a.bg
+- name: raw\obj\F_TR130.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR130.a.bg
+- name: raw\obj\F_TR140.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR140.a.bg
+- name: raw\obj\F_TR150.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR150.a.bg
+- name: raw\obj\F_TR160.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR160.a.bg
+- name: raw\obj\F_TR170.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TR170.a.bg
+- name: raw\obj\F_TT010_AL.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TT010_AL.a.bg
+- name: raw\obj\F_TT010_CA.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TT010_CA.a.bg
+- name: raw\obj\F_TT010_HE.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TT010_HE.a.bg
+- name: raw\obj\F_TT010_NM.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TT010_NM.a.bg
+- name: raw\obj\F_TT010_TR.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TT010_TR.a.bg
+- name: raw\obj\F_TT010_WI.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TT010_WI.a.bg
+- name: raw\obj\F_TT070.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TT070.a.bg
+- name: raw\obj\F_TT110.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TT110.a.bg
+- name: raw\obj\F_TT110_FREE.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TT110_FREE.a.bg
+- name: raw\obj\F_TT170.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_TT170.a.bg
+- name: raw\obj\F_WI000.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_WI000.a.bg
+- name: raw\obj\F_WI010.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_WI010.a.bg
+- name: raw\obj\F_WI010_BOSS.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_WI010_BOSS.a.bg
+- name: raw\obj\F_WI020.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_WI020.a.bg
+- name: raw\obj\F_WI020_BOSS.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_WI020_BOSS.a.bg
+- name: raw\obj\F_WI060.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_WI060.a.bg
+- name: raw\obj\F_WI060_PETE.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_WI060_PETE.a.bg
+- name: raw\obj\F_WI310.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\F_WI310.a.bg
 - name: raw\obj\B_AL100_FIRE.a.bg
   method: copy
   platform: pc
@@ -41752,522 +41446,6 @@ assets:
   package: kh2_fifth
   source:
   - name: raw\obj\F_HB140.a.bg
-- name: raw\obj\F_HE000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE000.a.bg
-- name: raw\obj\F_HE010.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE010.a.bg
-- name: raw\obj\F_HE020_A1.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE020_A1.a.bg
-- name: raw\obj\F_HE020_A2.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE020_A2.a.bg
-- name: raw\obj\F_HE020_B1.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE020_B1.a.bg
-- name: raw\obj\F_HE020_B2.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE020_B2.a.bg
-- name: raw\obj\F_HE020_C1.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE020_C1.a.bg
-- name: raw\obj\F_HE020_C2.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE020_C2.a.bg
-- name: raw\obj\F_HE020_PETE.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE020_PETE.a.bg
-- name: raw\obj\F_HE020_PO.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE020_PO.a.bg
-- name: raw\obj\F_HE030_L.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE030_L.a.bg
-- name: raw\obj\F_HE030_L_FREE.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE030_L_FREE.a.bg
-- name: raw\obj\F_HE030_S.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE030_S.a.bg
-- name: raw\obj\F_HE030_S_FREE.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE030_S_FREE.a.bg
-- name: raw\obj\F_HE090.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE090.a.bg
-- name: raw\obj\F_HE110.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_HE110.a.bg
-- name: raw\obj\F_MU000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU000.a.bg
-- name: raw\obj\F_MU010.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU010.a.bg
-- name: raw\obj\F_MU020.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU020.a.bg
-- name: raw\obj\F_MU030.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU030.a.bg
-- name: raw\obj\F_MU040.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU040.a.bg
-- name: raw\obj\F_MU050.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU050.a.bg
-- name: raw\obj\F_MU060.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU060.a.bg
-- name: raw\obj\F_MU070.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU070.a.bg
-- name: raw\obj\F_MU070_BOSS.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU070_BOSS.a.bg
-- name: raw\obj\F_MU080.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU080.a.bg
-- name: raw\obj\F_MU090.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU090.a.bg
-- name: raw\obj\F_MU100.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU100.a.bg
-- name: raw\obj\F_MU100_SHANG.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU100_SHANG.a.bg
-- name: raw\obj\F_MU100_TOWER.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_MU100_TOWER.a.bg
-- name: raw\obj\F_NM000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM000.a.bg
-- name: raw\obj\F_NM010.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM010.a.bg
-- name: raw\obj\F_NM020.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM020.a.bg
-- name: raw\obj\F_NM030.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM030.a.bg
-- name: raw\obj\F_NM040_00.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM040_00.a.bg
-- name: raw\obj\F_NM040_10.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM040_10.a.bg
-- name: raw\obj\F_NM050.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM050.a.bg
-- name: raw\obj\F_NM070.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM070.a.bg
-- name: raw\obj\F_NM080.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM080.a.bg
-- name: raw\obj\F_NM090.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM090.a.bg
-- name: raw\obj\F_NM100.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM100.a.bg
-- name: raw\obj\F_NM110.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM110.a.bg
-- name: raw\obj\F_NM120.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM120.a.bg
-- name: raw\obj\F_NM130.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM130.a.bg
-- name: raw\obj\F_NM170_CATCH.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM170_CATCH.a.bg
-- name: raw\obj\F_NM170_L.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM170_L.a.bg
-- name: raw\obj\F_NM170_M.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM170_M.a.bg
-- name: raw\obj\F_NM170_S.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM170_S.a.bg
-- name: raw\obj\F_NM170_XL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM170_XL.a.bg
-- name: raw\obj\F_NM180.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_NM180.a.bg
-- name: raw\obj\F_PO030.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_PO030.a.bg
-- name: raw\obj\F_PO080.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_PO080.a.bg
-- name: raw\obj\F_PO090.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_PO090.a.bg
-- name: raw\obj\F_TR010.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR010.a.bg
-- name: raw\obj\F_TR020.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR020.a.bg
-- name: raw\obj\F_TR030.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR030.a.bg
-- name: raw\obj\F_TR050.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR050.a.bg
-- name: raw\obj\F_TR060.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR060.a.bg
-- name: raw\obj\F_TR080.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR080.a.bg
-- name: raw\obj\F_TR090.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR090.a.bg
-- name: raw\obj\F_TR100.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR100.a.bg
-- name: raw\obj\F_TR110.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR110.a.bg
-- name: raw\obj\F_TR120.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR120.a.bg
-- name: raw\obj\F_TR130.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR130.a.bg
-- name: raw\obj\F_TR140.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR140.a.bg
-- name: raw\obj\F_TR150.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR150.a.bg
-- name: raw\obj\F_TR160.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR160.a.bg
-- name: raw\obj\F_TR170.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TR170.a.bg
-- name: raw\obj\F_TT010_AL.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TT010_AL.a.bg
-- name: raw\obj\F_TT010_CA.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TT010_CA.a.bg
-- name: raw\obj\F_TT010_HE.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TT010_HE.a.bg
-- name: raw\obj\F_TT010_NM.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TT010_NM.a.bg
-- name: raw\obj\F_TT010_TR.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TT010_TR.a.bg
-- name: raw\obj\F_TT010_WI.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TT010_WI.a.bg
-- name: raw\obj\F_TT070.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TT070.a.bg
-- name: raw\obj\F_TT110.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TT110.a.bg
-- name: raw\obj\F_TT110_FREE.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TT110_FREE.a.bg
-- name: raw\obj\F_TT170.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_TT170.a.bg
-- name: raw\obj\F_WI000.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_WI000.a.bg
-- name: raw\obj\F_WI010.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_WI010.a.bg
-- name: raw\obj\F_WI010_BOSS.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_WI010_BOSS.a.bg
-- name: raw\obj\F_WI020.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_WI020.a.bg
-- name: raw\obj\F_WI020_BOSS.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_WI020_BOSS.a.bg
-- name: raw\obj\F_WI060.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_WI060.a.bg
-- name: raw\obj\F_WI060_PETE.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_WI060_PETE.a.bg
-- name: raw\obj\F_WI310.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\F_WI310.a.bg
 - name: raw\obj\F_WI320.a.bg
   method: copy
   platform: pc
@@ -42478,36 +41656,36 @@ assets:
   package: kh2_fifth
   source:
   - name: raw\obj\M_AL020_FIRE.a.bg
-- name: raw\obj\M_AL020_FIRE2.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\M_AL020_FIRE2.a.bg
 - name: raw\obj\M_AL020_FIRE_RAW.a.bg
   method: copy
   platform: pc
   package: kh2_fifth
   source:
   - name: raw\obj\M_AL020_FIRE_RAW.a.bg
+- name: raw\obj\M_AL020_FIRE2.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\M_AL020_FIRE2.a.bg
 - name: raw\obj\M_AL020_ICEE.a.bg
   method: copy
   platform: pc
   package: kh2_fifth
   source:
   - name: raw\obj\M_AL020_ICEE.a.bg
-- name: raw\obj\M_AL020_ICEE2.a.bg
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\obj\M_AL020_ICEE2.a.bg
 - name: raw\obj\M_AL020_ICEE_RAW.a.bg
   method: copy
   platform: pc
   package: kh2_fifth
   source:
   - name: raw\obj\M_AL020_ICEE_RAW.a.bg
+- name: raw\obj\M_AL020_ICEE2.a.bg
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: raw\obj\M_AL020_ICEE2.a.bg
 - name: raw\obj\M_BB010_AX.a.bg
   method: copy
   platform: pc
@@ -43516,270 +42694,138 @@ assets:
   package: kh2_fifth
   source:
   - name: raw\obj\N_HB590_BTL.a.bg
-- name: raw\libretto\bg\wm1660.bar
+- name: raw\obj\AL14_CARPET.a.bg
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm1660.bar
-- name: raw\libretto\bg\wm1661.bar
+  - name: raw\obj\AL14_CARPET.a.bg
+- name: raw\obj\AL14_PLAYER.a.bg
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm1661.bar
-- name: raw\libretto\bg\wm1662.bar
+  - name: raw\obj\AL14_PLAYER.a.bg
+- name: raw\obj\B_AL020.a.bg
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm1662.bar
-- name: raw\libretto\bg\wm1823.bar
+  - name: raw\obj\B_AL020.a.bg
+- name: remastered\msg\fr\al.bar\FR_al_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm1823.bar
-- name: raw\libretto\bg\wm1824.bar
+  - name: remastered\msg\fr\al.bar\FR_al_bar0.png
+- name: remastered\msg\fr\bb.bar\FR_bb_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm1824.bar
-- name: raw\libretto\bg\wm1836.bar
+  - name: remastered\msg\fr\bb.bar\FR_bb_bar0.png
+- name: remastered\msg\fr\ca.bar\FR_ca_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm1836.bar
-- name: raw\libretto\bg\wm1837.bar
+  - name: remastered\msg\fr\ca.bar\FR_ca_bar0.png
+- name: remastered\msg\fr\dc.bar\FR_dc_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm1837.bar
-- name: raw\libretto\bg\wm1838.bar
+  - name: remastered\msg\fr\dc.bar\FR_dc_bar0.png
+- name: remastered\msg\fr\di.bar\FR_di_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm1838.bar
-- name: raw\libretto\bg\wm502.bar
+  - name: remastered\msg\fr\di.bar\FR_di_bar0.png
+- name: remastered\msg\fr\eh.bar\FR_eh_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm502.bar
-- name: raw\libretto\bg\wm503.bar
+  - name: remastered\msg\fr\eh.bar\FR_eh_bar0.png
+- name: remastered\msg\fr\hb.bar\FR_hb_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm503.bar
-- name: raw\libretto\bg\wm512.bar
+  - name: remastered\msg\fr\hb.bar\FR_hb_bar0.png
+- name: remastered\msg\fr\he.bar\FR_he_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm512.bar
-- name: raw\libretto\bg\wm521.bar
+  - name: remastered\msg\fr\he.bar\FR_he_bar0.png
+- name: remastered\msg\fr\lk.bar\FR_lk_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm521.bar
-- name: raw\libretto\bg\wm524.bar
+  - name: remastered\msg\fr\lk.bar\FR_lk_bar0.png
+- name: remastered\msg\fr\lm.bar\FR_lm_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\libretto\bg\wm524.bar
-- name: raw\limit\bg\aladdin.bar
+  - name: remastered\msg\fr\lm.bar\FR_lm_bar0.png
+- name: remastered\msg\fr\mu.bar\FR_mu_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\limit\bg\aladdin.bar
-- name: raw\limit\bg\auron.bar
+  - name: remastered\msg\fr\mu.bar\FR_mu_bar0.png
+- name: remastered\msg\fr\nm.bar\FR_nm_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\limit\bg\auron.bar
-- name: raw\limit\bg\beast.bar
+  - name: remastered\msg\fr\nm.bar\FR_nm_bar0.png
+- name: remastered\msg\fr\po.bar\FR_po_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\limit\bg\beast.bar
-- name: raw\limit\bg\chickenlittle.bar
+  - name: remastered\msg\fr\po.bar\FR_po_bar0.png
+- name: remastered\msg\fr\tr.bar\FR_tr_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\limit\bg\chickenlittle.bar
-- name: raw\limit\bg\donald.bar
+  - name: remastered\msg\fr\tr.bar\FR_tr_bar0.png
+- name: remastered\msg\fr\wi.bar\FR_wi_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\limit\bg\donald.bar
-- name: raw\limit\bg\donald2.bar
+  - name: remastered\msg\fr\wi.bar\FR_wi_bar0.png
+- name: remastered\msg\fr\wm.bar\FR_wm_bar0.png
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\limit\bg\donald2.bar
-- name: raw\limit\bg\donald2_wi.bar
+  - name: remastered\msg\fr\wm.bar\FR_wm_bar0.png
+- name: remastered\remastered\obj\B_EX140.a.jp\se\obj\se320
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: raw\limit\bg\donald2_wi.bar
-- name: raw\limit\bg\donald_wi.bar
+  - name: remastered\remastered\obj\B_EX140.a.jp\se\obj\se320
+- name: msg\fr\es.bar
   method: copy
   platform: pc
-  package: kh2_fifth
+  package: kh2_first
   source:
-  - name: raw\limit\bg\donald_wi.bar
-- name: raw\limit\bg\genie_brave.bar
+  - name: msg\fr\es.bar
+- name: msg\fr\tt.bar
   method: copy
   platform: pc
-  package: kh2_fifth
+  package: kh2_first
   source:
-  - name: raw\limit\bg\genie_brave.bar
-- name: raw\limit\bg\genie_final.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\genie_final.bar
-- name: raw\limit\bg\genie_master.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\genie_master.bar
-- name: raw\limit\bg\genie_wisdom.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\genie_wisdom.bar
-- name: raw\limit\bg\goofy.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\goofy.bar
-- name: raw\limit\bg\goofy2.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\goofy2.bar
-- name: raw\limit\bg\goofy2_wi.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\goofy2_wi.bar
-- name: raw\limit\bg\goofy_wi.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\goofy_wi.bar
-- name: raw\limit\bg\jack.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\jack.bar
-- name: raw\limit\bg\last_alcanam.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\last_alcanam.bar
-- name: raw\limit\bg\mulan.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\mulan.bar
-- name: raw\limit\bg\peterpan.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\peterpan.bar
-- name: raw\limit\bg\ragnarok.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\ragnarok.bar
-- name: raw\limit\bg\riku.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\riku.bar
-- name: raw\limit\bg\simba.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\simba.bar
-- name: raw\limit\bg\sonic_rave.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\sonic_rave.bar
-- name: raw\limit\bg\sparrow.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\sparrow.bar
-- name: raw\limit\bg\stitch.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\stitch.bar
-- name: raw\limit\bg\strike_raid.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\strike_raid.bar
-- name: raw\limit\bg\trinity.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\trinity.bar
-- name: raw\limit\bg\trinity_wi.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\trinity_wi.bar
-- name: raw\limit\bg\trinity_zz.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\trinity_zz.bar
-- name: raw\limit\bg\tron.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  source:
-  - name: raw\limit\bg\tron.bar
+  - name: msg\fr\tt.bar
 - name: voice\bg\battle\tt0_roxas.win32.scd
   method: copy
   platform: pc
@@ -45772,54 +44818,6 @@ assets:
   package: kh2_first
   source:
   - name: voice\bg\event\tt30301rs.win32.scd
-- name: msg\fr\es.bar
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: msg\fr\es.bar
-- name: msg\fr\tt.bar
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: msg\fr\tt.bar
-- name: remastered\msg\fr\es.bar\FR_es_bar0.png
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: remastered\msg\fr\es.bar\FR_es_bar0.png
-- name: remastered\msg\fr\tt.bar\FR_tt_bar0.png
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: remastered\msg\fr\tt.bar\FR_tt_bar0.png
-- name: raw\obj\W_EX010_W0.a.bg
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: raw\obj\W_EX010_W0.a.bg
-- name: raw\obj\F_EX030_TT.a.bg
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: raw\obj\F_EX030_TT.a.bg
-- name: raw\obj\F_PO090_ETC.a.bg
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: raw\obj\F_PO090_ETC.a.bg
-- name: raw\obj\F_PO090_TT.a.bg
-  method: copy
-  platform: pc
-  package: kh2_first
-  source:
-  - name: raw\obj\F_PO090_TT.a.bg
 - name: raw\obj\F_TT000.a.bg
   method: copy
   platform: pc
@@ -45928,3 +44926,39 @@ assets:
   package: kh2_first
   source:
   - name: raw\obj\W_EX010_V0.a.bg
+- name: raw\obj\W_EX010_W0.a.bg
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: raw\obj\W_EX010_W0.a.bg
+- name: raw\obj\F_EX030_TT.a.bg
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: raw\obj\F_EX030_TT.a.bg
+- name: raw\obj\F_PO090_ETC.a.bg
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: raw\obj\F_PO090_ETC.a.bg
+- name: raw\obj\F_PO090_TT.a.bg
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: raw\obj\F_PO090_TT.a.bg
+- name: remastered\msg\fr\es.bar\FR_es_bar0.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\msg\fr\es.bar\FR_es_bar0.png
+- name: remastered\msg\fr\tt.bar\FR_tt_bar0.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\msg\fr\tt.bar\FR_tt_bar0.png

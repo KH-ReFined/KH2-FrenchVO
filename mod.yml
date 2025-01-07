@@ -42808,12 +42808,12 @@ assets:
   package: kh2_fifth
   source:
   - name: remastered\msg\fr\wm.bar\FR_wm_bar0.png
-- name: remastered\remastered\obj\B_EX140.a.jp\se\obj\se320
+- name: remastered\obj\B_EX140.a.bg\se\obj\se320
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: remastered\remastered\obj\B_EX140.a.jp\se\obj\se320
+  - name: remastered\obj\B_EX140.a.bg\se\obj\se320
 - name: msg\fr\es.bar
   method: copy
   platform: pc
